@@ -1,14 +1,5 @@
-# Assignment README file
-README2.md
-
-# Assignment images
-assignment-images/
-
-# Mac/OSX attributes/metadata info file
-.DS_Store
-
-# Dependency directories
-node_modules/
-
-# dotenv environment variables file
+node_modules
 .env
+.DS_Store
+README2.md
+README2.pdf
