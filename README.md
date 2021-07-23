@@ -21,8 +21,8 @@
 * [License](#license)
 * [Contributing](#contributing)
 * [Questions](#questions)
-* [Repository Link:](#repository-link)
-* [Walkthrough Video:](#walkthrough-video)
+* [Repository Link](#repository-link)
+* [Walkthrough Video](#walkthrough-video)
 
 ---
 
@@ -149,11 +149,13 @@ If you have any questions, check out my <a href="https://www.github.com/blmccava
 
 ---
 
-### Repository Link:
+### Repository Link
 
 * https://github.com/blmccavanagh/E-Commerce-Back-End
 
 ---
+
+### Walkthrough Video
 
 <div align="center">
 
