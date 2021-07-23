@@ -161,6 +161,6 @@ If you have any questions, check out my <a href="https://www.github.com/blmccava
 
 </div>
 
-<a href="">Click here to watch the video!</a>
+<a href="https://drive.google.com/file/d/1qKMT8UdvrqDdoUiyiFrV9ZTrKA1ru0Vs/view?usp=sharing">Click here to watch the video!</a>
 
 ---
